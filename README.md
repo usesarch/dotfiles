@@ -1,0 +1,1 @@
+# dotfiles (.config/) easy access
